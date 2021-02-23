@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb3676f-a363-4301-9e80-d9371e1d931e" name="Default Changelist" comment="third commit to remote">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/pages/UsersPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/stepdefinitions/LibraryCT_StepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/UserGroupCategoriesForLibrarian.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/runner/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/utilities/BrowserUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,17 +52,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cybertek21-cucumber-junit" />
       <extension name="coverage">
@@ -85,6 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="JUnit.CukesRunner" />
         <item itemvalue="JUnit.CukesRunner" />
       </list>
     </recent_temporary>
@@ -136,12 +122,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit to remote" />
     <MESSAGE value="second commit to remote" />
     <MESSAGE value="third commit to remote" />
     <MESSAGE value="created loginpage" />
-    <option name="LAST_COMMIT_MESSAGE" value="created loginpage" />
+    <MESSAGE value="PAul'ss commit US09 user group category" />
+    <option name="LAST_COMMIT_MESSAGE" value="PAul'ss commit US09 user group category" />
   </component>
 </project>

@@ -28,7 +28,7 @@ public class LibraryCT_StepDefinitions {
     @When("the user click users module")
     public void the_user_click_users_module() {
       // waiting for the implementation of preceding steps
-        //Paul
+        //Paul just checking the rule
     }
     @Then("the user should see the following options:")
     public void the_user_should_see_the_following_options(List<String> expectedUserGroupDropDownOptions) {
