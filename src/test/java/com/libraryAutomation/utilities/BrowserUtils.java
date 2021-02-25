@@ -1,5 +1,10 @@
 package com.libraryAutomation.utilities;
 
+import org.openqa.selenium.WebElement;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class BrowserUtils {
 
     //create method name: wait
@@ -14,6 +19,15 @@ public class BrowserUtils {
             System.out.println("something happened in sleep method");
 
         }
+    }
+
+    public static List<String> getElementText(List<WebElement> webElements) {
+        List<String> webElementsStrings = new ArrayList<>();
+        for (WebElement eachElement : webElements) {
+            webElementsStrings.add(eachElement.getText());
+        }
+
+        return webElementsStrings;
     }
 
 }
