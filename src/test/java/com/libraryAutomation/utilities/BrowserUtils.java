@@ -29,5 +29,11 @@ public class BrowserUtils {
 
         return webElementsStrings;
     }
-
+    public static List<String> translateToStrList(List<WebElement> list){
+        List<String> strList = new ArrayList<>();
+        for (WebElement element : list) {
+            strList.add(element.getText());
+        }
+        return strList;
+    }
 }
