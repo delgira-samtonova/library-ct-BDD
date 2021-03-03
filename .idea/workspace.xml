@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb3676f-a363-4301-9e80-d9371e1d931e" name="Default Changelist" comment="third commit to remote">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/stepdefinitions/login_StepDefinitions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/libraryAutomation/runner/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +27,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1orHRGFk1n2lut1ix1i6VBxN7nz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,8 +41,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/libraryAutomation" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
@@ -48,6 +59,39 @@
       <recent name="$PROJECT_DIR$/src/test/java/com/libraryAutomation" />
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cybertek21-cucumber-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.libraryAutomation.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.libraryAutomation.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.libraryAutomation.runner.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,6 +101,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614037781522</updated>
+      <workItem from="1614053646864" duration="738000" />
+      <workItem from="1614224726716" duration="256000" />
+      <workItem from="1614226058898" duration="462000" />
+      <workItem from="1614227262282" duration="268000" />
+      <workItem from="1614228146025" duration="979000" />
+      <workItem from="1614229148457" duration="32000" />
+      <workItem from="1614229212566" duration="120000" />
+      <workItem from="1614229639284" duration="1030000" />
+      <workItem from="1614277790006" duration="310000" />
+      <workItem from="1614278254448" duration="75000" />
+      <workItem from="1614278397582" duration="554000" />
+      <workItem from="1614279100099" duration="1407000" />
+      <workItem from="1614280703795" duration="1283000" />
+      <workItem from="1614295169889" duration="299000" />
+      <workItem from="1614295496533" duration="103000" />
+      <workItem from="1614295847237" duration="34000" />
+      <workItem from="1614296197158" duration="296000" />
+      <workItem from="1614296523127" duration="14000" />
+      <workItem from="1614296543293" duration="4000" />
+      <workItem from="1614296565660" duration="1701000" />
+      <workItem from="1614356782582" duration="14000" />
+      <workItem from="1614356815479" duration="19000" />
+      <workItem from="1614356854503" duration="185000" />
+      <workItem from="1614357085119" duration="456000" />
+      <workItem from="1614357577069" duration="5385000" />
+      <workItem from="1614452153259" duration="176000" />
+      <workItem from="1614452696385" duration="208000" />
+      <workItem from="1614453021374" duration="44000" />
+      <workItem from="1614453256702" duration="329000" />
+      <workItem from="1614744963239" duration="39000" />
+      <workItem from="1614745172119" duration="811000" />
+      <workItem from="1614790337803" duration="2421000" />
+      <workItem from="1614793809956" duration="4347000" />
     </task>
     <task id="LOCAL-00001" summary="third commit to remote">
       <created>1614039852362</created>
@@ -82,33 +159,26 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit to remote" />
     <MESSAGE value="second commit to remote" />
     <MESSAGE value="third commit to remote" />
     <MESSAGE value="created loginpage" />
     <option name="LAST_COMMIT_MESSAGE" value="created loginpage" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="173" y="23" width="884" height="688" key="CommitChangelistDialog2" timestamp="1614041273747">
-      <screen x="0" y="23" width="1280" height="773" />
-    </state>
-    <state x="173" y="23" width="884" height="688" key="CommitChangelistDialog2/0.23.1280.773@0.23.1280.773" timestamp="1614041273747" />
-    <state x="480" y="304" key="Github.ShareDialog" timestamp="1614039928509">
-      <screen x="0" y="23" width="1280" height="773" />
-    </state>
-    <state x="480" y="304" key="Github.ShareDialog/0.23.1280.773@0.23.1280.773" timestamp="1614039928509" />
-    <state x="-15" y="23" key="SettingsEditor" timestamp="1614039179665">
-      <screen x="0" y="23" width="1280" height="773" />
-    </state>
-    <state x="-15" y="23" key="SettingsEditor/0.23.1280.773@0.23.1280.773" timestamp="1614039179665" />
-    <state x="215" y="140" key="Vcs.Push.Dialog.v2" timestamp="1614041278790">
-      <screen x="0" y="23" width="1280" height="773" />
-    </state>
-    <state x="215" y="140" key="Vcs.Push.Dialog.v2/0.23.1280.773@0.23.1280.773" timestamp="1614041278790" />
-    <state x="0" y="32" key="new project wizard" timestamp="1614040907940">
-      <screen x="0" y="23" width="1280" height="773" />
-    </state>
-    <state x="0" y="32" key="new project wizard/0.23.1280.773@0.23.1280.773" timestamp="1614040907940" />
   </component>
 </project>
